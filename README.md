@@ -15,6 +15,6 @@ this will create a MNLIST.txt that will be read by the PHP script
 
 * mnstat.json.php is the script that read the MNLIST.txt, get the IP post by the form and create a json output containing the information need (number of masternodes, masternode enabled, position, last seeen, ect...)
 
-## future improvement
-Creating a add to monitoring to a persistent list of IP, and a uniq UID that user can recall to get the status of their masternodes.
+## Future improvement
+Creating a "add to monitoring" button to get a persistent list of IP, and a uniq UID that user can recall to get the status of their masternodes list.
 
