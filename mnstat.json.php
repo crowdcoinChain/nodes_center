@@ -50,7 +50,7 @@ if ($MN_LIST !== FALSE) {
   $MNIP_LASTSEEN="";
   $MNIP_ACTIVESEC="";
   $MNIP_LASTPAYMENT="";
-  $MNIP_LASTPAIS_BLOCK="";
+  $MNIP_LASTPAID_BLOCK="";
 
   //Building general statistics
   $POS=0;
