@@ -50,7 +50,7 @@ if ($MN_LIST !== FALSE) {
   $MNIP_LASTSEEN="";
   $MNIP_ACTIVESEC="";
   $MNIP_LASTPAYMENT="";
-  $MNIP_LASTPAIS_BLOCK="";
+  $MNIP_LASTPAID_BLOCK="";
 
   //Building general statistics
   $POS=0;
@@ -86,7 +86,7 @@ if ($MN_LIST !== FALSE) {
   			$MNIP_LASTSEEN=$MN_LASTSEEN;
   			$MNIP_ACTIVESEC=$MN_ACTIVESEC;
   			$MNIP_LASTPAYMENT=$MN_LASTPAYMENT;
-  			$MNIP_LASTPAIS_BLOCK=$MN_LASTPAID_BLOCK;
+  			$MNIP_LASTPAID_BLOCK=$MN_LASTPAID_BLOCK;
 		}
 
 		// if MN is "ENABLED" we calculate last Payment in second
